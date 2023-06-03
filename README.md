@@ -6,8 +6,6 @@ I built this app as my first ios app to learn the basic framework and I'm excite
 
 This is a basic metronome app that keeps a tempo for musicians. It allows the user to start and stop the puls and change the tempo he pulse plays at. The bpm is displayed on the screen for the user to see.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/lwKJz9QxjlE)
 
 # Development Environment
@@ -17,7 +15,6 @@ To build this app I used Xcode and XcodeUI with the swift languate. I used a tim
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Apple's developers forums]([(https://forums.developer.apple.com/forums/)])
 * [Create a slider youTube video]([https://www.youtube.com/watch?v=zTDUcwn6zyU])
 
