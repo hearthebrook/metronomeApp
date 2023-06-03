@@ -15,7 +15,7 @@ To build this app I used Xcode and XcodeUI with the swift languate. I used a tim
 
 # Useful Websites
 
-* [Apple's developers forums]([(https://forums.developer.apple.com/forums/)])
+* [Apple's developers forums]((https://forums.developer.apple.com/forums/))
 * [Create a slider youTube video]([https://www.youtube.com/watch?v=zTDUcwn6zyU])
 
 # Future Work
