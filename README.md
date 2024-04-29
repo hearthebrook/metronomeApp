@@ -2,7 +2,7 @@
 
 # Overview
 
-I built this app as my first ios app to learn the basic framework and I'm excited to learn more about building ios apps!
+I built this app as my first iOS app to learn the basic framework and I'm excited to learn more about building ios apps!
 
 This is a basic metronome app that keeps a tempo for musicians. It allows the user to start and stop the puls and change the tempo he pulse plays at. The bpm is displayed on the screen for the user to see.
 
